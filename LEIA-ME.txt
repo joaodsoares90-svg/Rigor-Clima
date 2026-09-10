@@ -1,0 +1,13 @@
+RIGOR CLIMA — APP DE TESTE
+
+1. Abra o ficheiro index.html num navegador (Chrome, Edge ou Safari).
+2. Os orçamentos ficam guardados localmente neste dispositivo.
+3. "Gerar PDF" abre a impressão do orçamento; escolha "Guardar como PDF".
+4. Para testar o WhatsApp, preencha o telefone do cliente com o indicativo do país quando necessário.
+5. Esta é uma versão de protótipo para testes internos; ainda não é uma app publicada nas lojas.
+
+Marca: Rigor Clima
+Atividade: Climatização — Assistência Técnica e Instalação
+Contacto: 916 396 189
+Email: rigorclima@gmail.com
+Instagram: @rigorclima
